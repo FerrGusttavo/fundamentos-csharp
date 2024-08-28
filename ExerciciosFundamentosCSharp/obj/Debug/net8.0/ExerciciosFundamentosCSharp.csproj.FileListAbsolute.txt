@@ -1,0 +1,14 @@
+C:\Users\Gustavo\source\repos\ExerciciosFundamentosCSharp\ExerciciosFundamentosCSharp\bin\Debug\net8.0\ExerciciosFundamentosCSharp.exe
+C:\Users\Gustavo\source\repos\ExerciciosFundamentosCSharp\ExerciciosFundamentosCSharp\bin\Debug\net8.0\ExerciciosFundamentosCSharp.deps.json
+C:\Users\Gustavo\source\repos\ExerciciosFundamentosCSharp\ExerciciosFundamentosCSharp\bin\Debug\net8.0\ExerciciosFundamentosCSharp.runtimeconfig.json
+C:\Users\Gustavo\source\repos\ExerciciosFundamentosCSharp\ExerciciosFundamentosCSharp\bin\Debug\net8.0\ExerciciosFundamentosCSharp.dll
+C:\Users\Gustavo\source\repos\ExerciciosFundamentosCSharp\ExerciciosFundamentosCSharp\bin\Debug\net8.0\ExerciciosFundamentosCSharp.pdb
+C:\Users\Gustavo\source\repos\ExerciciosFundamentosCSharp\ExerciciosFundamentosCSharp\obj\Debug\net8.0\ExerciciosFundamentosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\source\repos\ExerciciosFundamentosCSharp\ExerciciosFundamentosCSharp\obj\Debug\net8.0\ExerciciosFundamentosCSharp.AssemblyInfoInputs.cache
+C:\Users\Gustavo\source\repos\ExerciciosFundamentosCSharp\ExerciciosFundamentosCSharp\obj\Debug\net8.0\ExerciciosFundamentosCSharp.AssemblyInfo.cs
+C:\Users\Gustavo\source\repos\ExerciciosFundamentosCSharp\ExerciciosFundamentosCSharp\obj\Debug\net8.0\ExerciciosFundamentosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\ExerciciosFundamentosCSharp\ExerciciosFundamentosCSharp\obj\Debug\net8.0\ExerciciosFundamentosCSharp.dll
+C:\Users\Gustavo\source\repos\ExerciciosFundamentosCSharp\ExerciciosFundamentosCSharp\obj\Debug\net8.0\refint\ExerciciosFundamentosCSharp.dll
+C:\Users\Gustavo\source\repos\ExerciciosFundamentosCSharp\ExerciciosFundamentosCSharp\obj\Debug\net8.0\ExerciciosFundamentosCSharp.pdb
+C:\Users\Gustavo\source\repos\ExerciciosFundamentosCSharp\ExerciciosFundamentosCSharp\obj\Debug\net8.0\ExerciciosFundamentosCSharp.genruntimeconfig.cache
+C:\Users\Gustavo\source\repos\ExerciciosFundamentosCSharp\ExerciciosFundamentosCSharp\obj\Debug\net8.0\ref\ExerciciosFundamentosCSharp.dll
